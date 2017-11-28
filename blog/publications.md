@@ -1,9 +1,8 @@
 ---
 layout: page
-title: publications
+title: Publications
 permalink: /publications/
 ---
-** Publications **
 [79] S. Williams, B. Müller. Agents and Dementia – Smart Risk Assessment.  14th European Conference, EUMAS 2016, and 4th International Conference, AT 2016, Valencia, Spain, December 15-16, 2016, Revised Selected Papers. LNAI 10207, pages 277-284. Springer-Verlag, 2017.
 
 [78] I.J. Abdullahi, B. Müller. Towards Efficient Verification of Elementary Object Systems. Proc. Concurrency, Specification, and Programming (CS&P 2016). CEUR Workshop Proceedings, Vol-1698 (urn:nbn:de:0074-1698-4), pages 86-100. ISSN 1613-0073. 2016.
