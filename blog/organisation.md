@@ -24,11 +24,17 @@ permalink: /organisation/
 ### Current and Recent Programme Committee Memberships
 
 **SIMULTECH 2018** – 8th International Conference on Simulation and Modeling Methodologies, Technologies and Applications
+
 **PeMod’18** – International Workshop on Petri Nets and Modeling
+
 **PNSE’17** – International Workshop on Petri Nets and Software Engineering 2016
+
 **SIMULTECH 2017** – 7th International Conference on Simulation and Modeling Methodologies, Technologies and Applications
+
 **PNSE’16** – International Workshop on Petri Nets and Software Engineering 2016
+
 **SIMULTECH 2016** – 6th International Conference on Simulation and Modeling Methodologies, Technologies and Applications
+
 PNSE’15 – International Workshop on Petri Nets and Software Engineering 2015
 PAAMS’15 – 13th Conference on Practical Applications of Agents and Multi-Agent Systems
 RDA2ETHICS 2015 – 2nd Workshop on Rights, Duties and Ethics of Autonomous Agents
